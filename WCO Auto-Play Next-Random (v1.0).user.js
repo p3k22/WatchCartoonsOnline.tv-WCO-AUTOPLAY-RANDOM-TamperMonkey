@@ -160,7 +160,7 @@
 		}
 
 		// Create Next Sequential and Random toggles
-		const nextToggle = makeToggle('wco-auto-next', 'Next Sequential', defaultNext);
+		const nextToggle = makeToggle('wco-auto-next', 'Sequential', defaultNext);
 		const randToggle = makeToggle('wco-auto-random', 'Random', defaultRand);
 
 		// Make toggles mutually exclusive
