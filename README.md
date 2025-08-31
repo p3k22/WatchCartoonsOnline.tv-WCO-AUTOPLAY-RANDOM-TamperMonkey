@@ -4,7 +4,7 @@ Auto play sequential/random episodes on wco.tv for any anime
 ## Install the WCO Auto-Play Script
 Click the link below to install directly in Tampermonkey:
 
-👉 [Install WCO Auto-Play (v1.0)](https://greasyfork.org/en/scripts/542247-wco-auto-play-next-random-v1-0)
+👉 [Install WCO Auto-Play (v1.5)](https://update.greasyfork.org/scripts/542247/WCOWCOStream%20Auto-Play%20NextRandom%20%28v15%29.user.js)
 
 ====================
 
